@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src
+END
+plane.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/plane.c
+END
+vec2.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/vec2.c
+END
+vec3.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/vec3.c
+END
+vec4.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/vec4.c
+END
+utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/utility.c
+END
+mat3.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/mat3.c
+END
+neon_matrix_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/neon_matrix_impl.c
+END
+aabb.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/aabb.c
+END
+mat4.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/mat4.c
+END
+quaternion.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/quaternion.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/ChangeLog
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/CMakeLists.txt
+END
+ray2.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/src/ray2.c
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath
+END
+ray2.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/ray2.h
+END
+kazmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/kazmath.h
+END
+plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/plane.h
+END
+vec2.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/vec2.h
+END
+vec3.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/vec3.h
+END
+vec4.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/vec4.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/utility.h
+END
+mat3.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/mat3.h
+END
+neon_matrix_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/neon_matrix_impl.h
+END
+aabb.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/aabb.h
+END
+mat4.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/mat4.h
+END
+quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/kazmath/include/kazmath/quaternion.h
+END

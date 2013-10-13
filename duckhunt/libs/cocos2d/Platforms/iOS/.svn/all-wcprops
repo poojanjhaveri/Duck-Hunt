@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS
+END
+CCES2Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCES2Renderer.m
+END
+CCTouchHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCTouchHandler.m
+END
+CCDirectorIOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+END
+CCTouchDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+END
+CCDirectorIOS.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCDirectorIOS.m
+END
+CCGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCGLView.h
+END
+CCESRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCESRenderer.h
+END
+CCTouchDispatcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.m
+END
+CCTouchDelegateProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+END
+CCES2Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCES2Renderer.h
+END
+CCTouchHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+END
+CCGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/cocos2d/Platforms/iOS/CCGLView.m
+END

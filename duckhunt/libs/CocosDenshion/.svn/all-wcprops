@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/CocosDenshion
+END
+CDConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/CocosDenshion/CDConfig.h
+END
+CocosDenshion.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/CocosDenshion/CocosDenshion.h
+END
+SimpleAudioEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/CocosDenshion/SimpleAudioEngine.h
+END
+CDOpenALSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/CocosDenshion/CDOpenALSupport.h
+END
+CDAudioManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/CocosDenshion/CDAudioManager.h
+END
+CocosDenshion.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/CocosDenshion/CocosDenshion.m
+END
+SimpleAudioEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/CocosDenshion/SimpleAudioEngine.m
+END
+CDOpenALSupport.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/CocosDenshion/CDOpenALSupport.m
+END
+CDAudioManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/itp/!svn/ver/9386/20133/382/pjhaveri/duckhunt/duckhunt/libs/CocosDenshion/CDAudioManager.m
+END
